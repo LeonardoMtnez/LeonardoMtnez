@@ -1,8 +1,6 @@
 ### my name is Leonardo and i'm web developer.
 
 
-I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
-
 Skills: JS / Golang / REACT / HTML / CSS 
 
 - 🔭 I’m currently working on Freelancer 
