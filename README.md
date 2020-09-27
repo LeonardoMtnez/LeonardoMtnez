@@ -1,4 +1,4 @@
-### my name is Leonardo and i'm web developer.
+### Hi there, my name is Leonardo and i'm web developer.
 
 
 Skills: JS / Golang / REACT / HTML / CSS 
